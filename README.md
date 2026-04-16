@@ -2,6 +2,13 @@
 
 Creator Hub is a full-stack MERN app that lets users sign up/login (JWT), manage content ideas (draft/published), and generate idea drafts with a mock “AI” generator.
 
+Live Application (Frontend)
+👉 https://creator-hub-website.vercel.app
+
+⚙️ Backend API
+👉 https://creatorhub-backend-y0qn.onrender.com
+
+
 ## Tech
 
 - Backend: Node.js + Express + MongoDB (Mongoose) + JWT + bcrypt
